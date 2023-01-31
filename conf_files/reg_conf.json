@@ -1,0 +1,47 @@
+[{        
+    "device":"umg605",
+    "registers":[{ 
+        "start_reg": 19000,
+        "count": 55,
+        "index": [0,1,2,3,4,5,6,7,8,13,17,21,25,34,38,50,54],
+        "keys": ["Van","Vbn","Vcn","Vab","Vbc","Vca","Ia","Ib","Ic","P","S","Q","F","Wcon","Wdel","Qend","Qcap"],
+        "scales":[1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 1, 1, 1, 1e-6, 1e-6, 1e-6, 1, 1e-3, 1e-3, 1e-3, 1e-3],
+        "typo": "holding_float"}]
+},
+    {"device":"ION7650",
+    "registers":[{ 
+        "start_reg": 0,
+        "count": 6,
+        "index": [0,1,2,3,4,5],
+        "keys": ["Van","Vbn","Vcn","Vab","Vbc","Vca"],
+        "scales":[1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 1e-3],
+        "typo": "holding_S16"},
+        {"start_reg": 149,
+        "count": 10,
+        "index": [0,1,2,9],
+        "keys": ["Ia","Ib","Ic","F"],
+        "scales":[0.1, 0.1, 0.1, 0.1],
+        "typo": "holding_S16"},
+        {"start_reg": 203,
+        "count": 16,
+        "index": [0,5,10,12,13,14,15],
+        "keys": ["P","Q", "S","Wdel","Wcon","Qcap", "Qend"],
+        "scales":[1e-3, 1e-3, 1e-3, 1, 1, 1, 1],
+        "typo": "holding_S32"}]
+ },
+    {"device":"KLEA",
+    "registers":[{ 
+        "start_reg": 0,
+        "count": 29,
+        "index": [2,3,4,7,8,9,11,12,18,19,20,27,28],
+        "keys": ["P","Q","S","Vab","Vbc","Vca","Van","Ia","F","Vbn","Ib","Vcn","Ic"],
+        "scales":[1e-6, 1e-6, 1e-6, 1e-3, 1e-3, 1e-3, 1e-3, 1, 1, 1e-3, 1, 1e-3, 1],
+        "typo": "holding_float"},
+        { 
+        "start_reg": 404,
+        "count": 22,
+        "index": [0,7,14,21],
+        "keys": ["Wcon","Wdel","Qend","Qcap"],
+        "scales":[1e-3, 1e-3, 1e-3, 1e-3],
+        "typo": "holding_float"}]
+}]

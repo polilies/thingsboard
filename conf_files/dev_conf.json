@@ -1,0 +1,172 @@
+{
+    "devices": [{
+        "dev_name": "F5_Onsen",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 2,
+        "dev_token": "EAP5aMhQGBWqdVywavRg",
+        "reg_info": []
+        },
+        {
+        "dev_name": "TRB",
+        "ip": "10.46.111.3",
+        "port": 502,
+        "dev_type": "umg605",
+        "mod_adrs": 200,
+        "dev_token": "BwRwprBkokdF6TfIFIh9",
+        "reg_info": []
+        },
+        {
+        "dev_name": "TRA",
+        "ip": "10.46.111.2",
+        "port": 502,
+        "dev_type": "ION7650",
+        "mod_adrs": 255,
+        "dev_token": "Ynzn8jRd461DPdftzNTp",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F4_Agabeyli",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 1,
+        "dev_token": "pIUwnheiffN8g1R1PQ62",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F3_Ciftesaray",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 3,
+        "dev_token": "O1VLWTyDot5PKZwRsw5W",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F13_SucatiHes",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 4,
+        "dev_token": "DHsp6wiu40ISLMbS0bC1",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F10_Bogazici",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 6,
+        "dev_token": "2Ch4jlIRjrz0mvzifMYE",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F17_Torlar",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 7,
+        "dev_token": "0yW9mr7FNfl3h4C0WPWZ",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F12_Ceyhan",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 8,
+        "dev_token": "tPUAvMWf7TVOygEOpPZz",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F20_Binevler",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 9,
+        "dev_token": "Q60k39owZ6j99spun52s",
+        "reg_info": []
+        },{
+        "dev_name": "F21_Maarif",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 11,
+        "dev_token": "waqw9kAYh29vadSSre6n",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F11_Ungut",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 12,
+        "dev_token": "GOoIweheXRqxzdT2jk0y",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F14_Universite",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 13,
+        "dev_token": "COBrzHRQ5EebHcdpLWK5",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F7_Sır",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 14,
+        "dev_token": "0HDsvjXMi4rdNxfl4fD2",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F8_Otogar",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 15,
+        "dev_token": "6bNr2Fa5NIFCecdBA7pK",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F16_Taskopru",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 16,
+        "dev_token": "htPmwczXgurQbINnvGL0",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F9_Sirikcioglu",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 17,
+        "dev_token": "SeaJVIqDPr5n7NWlEOqW",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F6_Ceas",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 18,
+        "dev_token": "prw1OUC6sCfzNs1up2m3",
+        "reg_info": []
+        },
+        {
+        "dev_name": "F18_OSB_Mud",
+        "ip": "10.46.111.4",
+        "port": 502,
+        "dev_type": "KLEA",
+        "mod_adrs": 19,
+        "dev_token": "feFsAxosWs2wDmK41nCG",
+        "reg_info": []
+        }]
+}

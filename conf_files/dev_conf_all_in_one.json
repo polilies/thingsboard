@@ -1,0 +1,18 @@
+{
+    "devices": [{
+        "dev_name": "TRB",
+        "ip": "10.46.111.3",
+        "port": 502,
+        "dev_type": "umg605",
+        "mod_adrs": 200,
+        "dev_token": "BwRwprBkokdF6TfIFIh9",
+        "reg_info":[{
+            "start_reg": 19000,
+            "count": 55,
+            "index": [0,1,2,3,4,5,6,7,8,13,17,21,25,34,38,50,54],
+            "keys": ["Van","Vbn","Vcn","Vab","Vbc","Vca","Ia","Ib","Ic","P","S","Q","F","Wcon","Wdel","Qend","Qcap"],
+            "scales":[1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 1, 1, 1, 1e-6, 1e-6, 1e-6, 1, 1e-3, 1e-3, 1e-3, 1e-3],
+            "typo": "Float"
+        }]
+    }]
+}
